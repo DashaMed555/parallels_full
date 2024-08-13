@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/x64/ninja -DCMAKE_C_COMPILER=/usr/local/Cellar/gcc/13.2.0/bin/gcc-13 -DCMAKE_CXX_COMPILER=/usr/local/Cellar/gcc/13.2.0/bin/c++-13 -G Ninja -S /Users/terminator/Documents/parallelism/task3/subtask2 -B /Users/terminator/Documents/parallelism/task3/subtask2/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/terminator/Documents/parallelism/task3/subtask2/cmake-build-debug

@@ -1,0 +1,3 @@
+/Users/terminator/Documents/parallelism/task3/subtask2/build/CMakeFiles/subtask2.dir
+/Users/terminator/Documents/parallelism/task3/subtask2/build/CMakeFiles/edit_cache.dir
+/Users/terminator/Documents/parallelism/task3/subtask2/build/CMakeFiles/rebuild_cache.dir

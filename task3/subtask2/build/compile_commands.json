@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/terminator/Documents/parallelism/task3/subtask2/build",
+  "command": "/usr/local/bin/g++-13 -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/subtask2.dir/client_server.cpp.o -c /Users/terminator/Documents/parallelism/task3/subtask2/client_server.cpp",
+  "file": "/Users/terminator/Documents/parallelism/task3/subtask2/client_server.cpp",
+  "output": "CMakeFiles/subtask2.dir/client_server.cpp.o"
+}
+]
